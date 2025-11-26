@@ -1,0 +1,55 @@
+{
+  "tripName": "Florida Sunshine Explorer: Two-Week Adventure",
+  "durationDays": 14,
+  "vibe": "Tropical, Adventurous, Relaxed",
+  "tripPlan": [
+    {
+      "day": 1,
+      "date": "2026-03-01",
+      "location": "Miami (South Beach)",
+      "theme": "Art Deco Arrival",
+      "activities": [
+        {"time": "Afternoon", "description": "Check-in to hotel/Airbnb.", "status": "Pending"},
+        {"time": "Evening", "description": "Art Deco Historic District Walking Tour.", "status": "Pending"},
+        {"time": "Night", "description": "Dinner at a Bayside seafood spot.", "status": "Pending"}
+      ]
+    },
+    {
+      "day": 4,
+      "date": "2026-03-04",
+      "location": "Key West",
+      "theme": "Island Hopping & Sunsets",
+      "activities": [
+        {"time": "Morning", "description": "Drive down the Overseas Highway (US 1).", "status": "Pending"},
+        {"time": "Afternoon", "description": "Visit Ernest Hemingway Home & Museum.", "status": "Pending"},
+        {"time": "Sunset", "description": "Mallory Square Sunset Celebration.", "status": "Pending"}
+      ]
+    },
+    // ... [ Day 5-10: Orlando Theme Parks / Tampa ] ...
+    {
+      "day": 12,
+      "date": "2026-03-12",
+      "location": "Everglades National Park",
+      "theme": "Wilderness Quest",
+      "activities": [
+        {"time": "Morning", "description": "Airboat Tour (Search for alligators!).", "status": "Pending"},
+        {"time": "Noon", "description": "Picnic Lunch at a designated area.", "status": "Pending"},
+        {"time": "Afternoon", "description": "Anhinga Trail hike (Bird watching).", "status": "Pending"}
+      ]
+    },
+    {
+      "day": 14,
+      "date": "2026-03-14",
+      "location": "Departure Day (Miami International Airport)",
+      "theme": "Farewell Florida",
+      "activities": [
+        {"time": "Morning", "description": "Last beach walk and coffee.", "status": "Pending"},
+        {"time": "Noon", "description": "Return rental car and head to MIA.", "status": "Pending"}
+      ]
+    }
+  ],
+  "inspirationBoard": [
+    {"type": "Food", "name": "Joe's Stone Crab", "note": "Must try the Stone Crab Claws in season!"},
+    {"type": "Beach", "name": "Siesta Key Beach", "note": "Known for the whitest, softest sand. Maybe a day trip?"}
+  ]
+}
